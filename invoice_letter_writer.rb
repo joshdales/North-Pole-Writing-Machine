@@ -18,6 +18,7 @@ kids_data.each_line do |kid|
   hosue_value   = kid_data_array[13]
   infraction    = kid_data_array[15]
 
+next unless house_value > 200000
 
   filename    = 'letters/invoices/' + name + '.txt'
   letter_text = ERB.new(invoice_letter, nil, '-').result(binding)
