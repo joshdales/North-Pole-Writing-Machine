@@ -20,6 +20,7 @@ $0  Kaleidoscope (out of stock)
 $<%= house_value/100 %>  <%= toy -%>
   <% end -%>
 <% end %>
+<% toys.delete("Kaleidoscope") -%>
 ----
 $<%= subtotal = (house_value/100) * toys.count %>  Subtotal
 $<%= hst = (subtotal/100) * 13 %>   HST

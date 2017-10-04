@@ -20,14 +20,14 @@ $28880  Robot
 $28880  Uno    
 $28880  Monopoly  
 ----
-$173280  Subtotal
-$22516   HST
+$144400  Subtotal
+$18772   HST
 ====
-$195796  Total
+$163172  Total
 
 
 
-Your total comes to $195796. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Sydney's toys suddenly disappear.
+Your total comes to $163172. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Sydney's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 
