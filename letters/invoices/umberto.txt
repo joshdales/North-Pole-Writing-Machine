@@ -14,29 +14,17 @@ Umberto's Toy Order
 =================
 
 
+$39880  Twister  
 
-$39880  Twister
-  
+$39880  Car  
 
+$39880  Truck  
 
-$39880  Car
-  
+$39880  Plane  
 
+$39880  Battleship  
 
-$39880  Truck
-  
-
-
-$39880  Plane
-  
-
-
-$39880  Battleship
-  
-
-
-$39880  Pony
-  
+$39880  Pony  
 
 ----
 $239280  Subtotal

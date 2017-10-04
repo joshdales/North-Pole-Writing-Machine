@@ -14,10 +14,9 @@ Below are the charges for <%= name.capitalize %>'s Christmas toy order. The cost
 =================
 <% if behavior == "nice" %>
 <% toys.each do |toy| %>
-
-$<%= house_value/100 %>  <%= toy %>
+$<%= house_value/100 %>  <%= toy -%>
   <% if toy == "Kaleidoscope" %>
-  $0  Kaleidoscope (out of stock)
+$0  Kaleidoscope (out of stock)
   <% end %>
 <% end %>
 ----
@@ -26,7 +25,6 @@ $<%= hst = subtotal * 13 %>   HST
 ====
 $<%= total = subtotal + hst %>  Total
 <%else%>
-
 $<%= house_value/100 %> 1 defective toy
 ----
 $<%= subtotal = (house_value/100)%>  Subtotal

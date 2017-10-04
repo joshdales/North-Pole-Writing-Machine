@@ -14,29 +14,17 @@ Melissa's Toy Order
 =================
 
 
+$3999  Synthesizer  
 
-$3999  Synthesizer
-  
+$3999  Transformers  
 
+$3999  Truck  
 
-$3999  Transformers
-  
+$3999  Clue  
 
+$3999  Twister  
 
-$3999  Truck
-  
-
-
-$3999  Clue
-  
-
-
-$3999  Twister
-  
-
-
-$3999  Uno
-  
+$3999  Uno  
 
 ----
 $23994  Subtotal

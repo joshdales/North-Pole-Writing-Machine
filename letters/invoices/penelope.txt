@@ -14,29 +14,17 @@ Penelope's Toy Order
 =================
 
 
+$5955  Barbie  
 
-$5955  Barbie
-  
+$5955  Batman  
 
+$5955  Clue  
 
-$5955  Batman
-  
+$5955  Boat  
 
+$5955  Car  
 
-$5955  Clue
-  
-
-
-$5955  Boat
-  
-
-
-$5955  Car
-  
-
-
-$5955  Blocks
-  
+$5955  Blocks  
 
 ----
 $35730  Subtotal

@@ -14,29 +14,17 @@ Eileen's Toy Order
 =================
 
 
+$49012  Crayons  
 
-$49012  Crayons
-  
+$49012  Doll  
 
+$49012  Batman  
 
-$49012  Doll
-  
+$49012  Meccano  
 
+$49012  Gumby  
 
-$49012  Batman
-  
-
-
-$49012  Meccano
-  
-
-
-$49012  Gumby
-  
-
-
-$49012  Soldier
-  
+$49012  Soldier  
 
 ----
 $294072  Subtotal

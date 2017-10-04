@@ -14,29 +14,17 @@ Harold's Toy Order
 =================
 
 
+$5990  Barbie  
 
-$5990  Barbie
-  
+$5990  Slinky  
 
+$5990  Clue  
 
-$5990  Slinky
-  
+$5990  Plane  
 
+$5990  Pony  
 
-$5990  Clue
-  
-
-
-$5990  Plane
-  
-
-
-$5990  Pony
-  
-
-
-$5990  Risk
-  
+$5990  Risk  
 
 ----
 $35940  Subtotal

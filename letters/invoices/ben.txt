@@ -14,29 +14,17 @@ Ben's Toy Order
 =================
 
 
+$3620  Blocks  
 
-$3620  Blocks
-  
+$3620  Dominoes  
 
+$3620  Monopoly  
 
-$3620  Dominoes
-  
+$3620  Bear  
 
+$3620  Bicycle  
 
-$3620  Monopoly
-  
-
-
-$3620  Bear
-  
-
-
-$3620  Bicycle
-  
-
-
-$3620  Lego
-  
+$3620  Lego  
 
 ----
 $21720  Subtotal

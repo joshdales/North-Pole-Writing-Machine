@@ -14,31 +14,19 @@ Alice's Toy Order
 =================
 
 
+$9998  Monopoly  
 
-$9998  Monopoly
+$9998  Batman  
+
+$9998  Kaleidoscope  
+$0  Kaleidoscope (out of stock)
   
 
+$9998  Skates  
 
-$9998  Batman
-  
+$9998  Slinky  
 
-
-$9998  Kaleidoscope
-  
-  $0  Kaleidoscope (out of stock)
-  
-
-
-$9998  Skates
-  
-
-
-$9998  Slinky
-  
-
-
-$9998  Transformers
-  
+$9998  Transformers  
 
 ----
 $59988  Subtotal

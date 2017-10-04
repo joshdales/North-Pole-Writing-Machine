@@ -14,29 +14,17 @@ Gordie's Toy Order
 =================
 
 
+$4999  Bicycle  
 
-$4999  Bicycle
-  
+$4999  Pony  
 
+$4999  Lego  
 
-$4999  Pony
-  
+$4999  Barbie  
 
+$4999  Slinky  
 
-$4999  Lego
-  
-
-
-$4999  Barbie
-  
-
-
-$4999  Slinky
-  
-
-
-$4999  Clue
-  
+$4999  Clue  
 
 ----
 $29994  Subtotal

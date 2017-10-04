@@ -14,29 +14,17 @@ Vivian's Toy Order
 =================
 
 
+$52880  Plane  
 
-$52880  Plane
-  
+$52880  Battleship  
 
+$52880  Pony  
 
-$52880  Battleship
-  
+$52880  Frisbee  
 
+$52880  Gumby  
 
-$52880  Pony
-  
-
-
-$52880  Frisbee
-  
-
-
-$52880  Gumby
-  
-
-
-$52880  Clue
-  
+$52880  Clue  
 
 ----
 $317280  Subtotal

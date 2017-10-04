@@ -14,29 +14,17 @@ Lula's Toy Order
 =================
 
 
+$11490  Meccano  
 
-$11490  Meccano
-  
+$11490  Sorry  
 
+$11490  Stickers  
 
-$11490  Sorry
-  
+$11490  Synthesizer  
 
+$11490  Transformers  
 
-$11490  Stickers
-  
-
-
-$11490  Synthesizer
-  
-
-
-$11490  Transformers
-  
-
-
-$11490  Truck
-  
+$11490  Truck  
 
 ----
 $68940  Subtotal

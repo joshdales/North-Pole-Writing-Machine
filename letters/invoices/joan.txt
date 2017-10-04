@@ -14,29 +14,17 @@ Joan's Toy Order
 =================
 
 
+$6980  Robot  
 
-$6980  Robot
-  
+$6980  Zelda  
 
+$6980  Scrabble  
 
-$6980  Zelda
-  
+$6980  Skates  
 
+$6980  Slinky  
 
-$6980  Scrabble
-  
-
-
-$6980  Skates
-  
-
-
-$6980  Slinky
-  
-
-
-$6980  Clue
-  
+$6980  Clue  
 
 ----
 $41880  Subtotal

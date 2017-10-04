@@ -14,29 +14,17 @@ Omar's Toy Order
 =================
 
 
+$7490  Crayons  
 
-$7490  Crayons
-  
+$7490  Doll  
 
+$7490  Blocks  
 
-$7490  Doll
-  
+$7490  Barbie  
 
+$7490  Batman  
 
-$7490  Blocks
-  
-
-
-$7490  Barbie
-  
-
-
-$7490  Batman
-  
-
-
-$7490  Clue
-  
+$7490  Clue  
 
 ----
 $44940  Subtotal

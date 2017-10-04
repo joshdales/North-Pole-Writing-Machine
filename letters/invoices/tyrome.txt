@@ -14,31 +14,19 @@ Tyrome's Toy Order
 =================
 
 
-
-$19290  Kaleidoscope
-  
-  $0  Kaleidoscope (out of stock)
+$19290  Kaleidoscope  
+$0  Kaleidoscope (out of stock)
   
 
+$19290  Bear  
 
-$19290  Bear
-  
+$19290  Monopoly  
 
+$19290  Twister  
 
-$19290  Monopoly
-  
+$19290  Uno  
 
-
-$19290  Twister
-  
-
-
-$19290  Uno
-  
-
-
-$19290  Truck
-  
+$19290  Truck  
 
 ----
 $115740  Subtotal

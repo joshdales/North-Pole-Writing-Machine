@@ -14,29 +14,17 @@ Dale's Toy Order
 =================
 
 
+$6750  Truck  
 
-$6750  Truck
-  
+$6750  Barbie  
 
+$6750  Slinky  
 
-$6750  Barbie
-  
+$6750  Crayons  
 
+$6750  Doll  
 
-$6750  Slinky
-  
-
-
-$6750  Crayons
-  
-
-
-$6750  Doll
-  
-
-
-$6750  Dominoes
-  
+$6750  Dominoes  
 
 ----
 $40500  Subtotal

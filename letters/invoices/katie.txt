@@ -14,29 +14,17 @@ Katie's Toy Order
 =================
 
 
+$14567  Robot  
 
-$14567  Robot
-  
+$14567  Slinky  
 
+$14567  Clue  
 
-$14567  Slinky
-  
+$14567  Meccano  
 
+$14567  Sorry  
 
-$14567  Clue
-  
-
-
-$14567  Meccano
-  
-
-
-$14567  Sorry
-  
-
-
-$14567  Stickers
-  
+$14567  Stickers  
 
 ----
 $87402  Subtotal

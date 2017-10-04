@@ -14,29 +14,17 @@ Xiang's Toy Order
 =================
 
 
+$6999  Meccano  
 
-$6999  Meccano
-  
+$6999  Sorry  
 
+$6999  Stickers  
 
-$6999  Sorry
-  
+$6999  Robot  
 
+$6999  Zelda  
 
-$6999  Stickers
-  
-
-
-$6999  Robot
-  
-
-
-$6999  Zelda
-  
-
-
-$6999  Scrabble
-  
+$6999  Scrabble  
 
 ----
 $41994  Subtotal

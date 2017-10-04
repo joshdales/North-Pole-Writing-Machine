@@ -13,7 +13,6 @@ Below are the charges for Zoe's Christmas toy order. The cost for each toy is a 
 Zoe's Toy Order
 =================
 
-
 $9890 1 defective toy
 ----
 $9890  Subtotal

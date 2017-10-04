@@ -14,29 +14,17 @@ Isadora's Toy Order
 =================
 
 
+$5499  Plane  
 
-$5499  Plane
-  
+$5499  Pony  
 
+$5499  Risk  
 
-$5499  Pony
-  
+$5499  Robot  
 
+$5499  Zelda  
 
-$5499  Risk
-  
-
-
-$5499  Robot
-  
-
-
-$5499  Zelda
-  
-
-
-$5499  Scrabble
-  
+$5499  Scrabble  
 
 ----
 $32994  Subtotal

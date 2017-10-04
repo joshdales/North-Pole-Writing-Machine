@@ -13,7 +13,6 @@ Below are the charges for Nora's Christmas toy order. The cost for each toy is a
 Nora's Toy Order
 =================
 
-
 $3290 1 defective toy
 ----
 $3290  Subtotal

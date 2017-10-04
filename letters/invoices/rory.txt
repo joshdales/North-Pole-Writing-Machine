@@ -13,7 +13,6 @@ Below are the charges for Rory's Christmas toy order. The cost for each toy is a
 Rory's Toy Order
 =================
 
-
 $2500 1 defective toy
 ----
 $2500  Subtotal

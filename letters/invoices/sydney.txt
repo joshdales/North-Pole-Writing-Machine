@@ -14,31 +14,19 @@ Sydney's Toy Order
 =================
 
 
+$28880  Skates  
 
-$28880  Skates
+$28880  Soldier  
+
+$28880  Kaleidoscope  
+$0  Kaleidoscope (out of stock)
   
 
+$28880  Robot  
 
-$28880  Soldier
-  
+$28880  Uno  
 
-
-$28880  Kaleidoscope
-  
-  $0  Kaleidoscope (out of stock)
-  
-
-
-$28880  Robot
-  
-
-
-$28880  Uno
-  
-
-
-$28880  Monopoly
-  
+$28880  Monopoly  
 
 ----
 $173280  Subtotal
