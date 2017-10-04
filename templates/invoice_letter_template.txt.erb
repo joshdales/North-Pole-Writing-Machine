@@ -12,7 +12,7 @@ Below are the charges for <%= name.capitalize %>'s Christmas toy order. The cost
 =================
 <%= name.capitalize %>'s Toy Order
 =================
-
+<% if behavior == "nice" %>
 <% toys.each do |toy| %>
 
 $<%= house_value/100 %>  <%= toy %>
@@ -22,13 +22,21 @@ $<%= house_value/100 %>  <%= toy %>
 <% end %>
 ----
 $<%= subtotal = (house_value/100) * toys.count %>  Subtotal
-$<%= hst = (house_value/100) * 13 %>   HST
+$<%= hst = subtotal * 13 %>   HST
 ====
-$<%= subtotal + hst %>  Total
+$<%= total = subtotal + hst %>  Total
+<%else%>
+
+$<%= house_value/100 %> 1 defective toy
+----
+$<%= subtotal = (house_value/100)%>  Subtotal
+$<%= hst = subtotal * 13 %>   HST
+====
+$<%= total = subtotal + hst %>  Total
+<% end %>
 
 
-
-Your total comes to $565. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Alice's toys suddenly disappear.
+Your total comes to $<%= total %>. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of <%= name.capitalize %>'s toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 
@@ -37,3 +45,7 @@ Sincerely,
 Guido the Elf,
 Collections Department
 Santa's Village
+
+<% if behavior == "naughty" %>
+P.S. For a limited time get 25% off the best-seller by Ms. Claus, I’m Getting Nothing for Christmas: Raising Toy-Worthy Children in a Device-Driven World.
+<% end %>

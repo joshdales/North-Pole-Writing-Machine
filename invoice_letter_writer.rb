@@ -1,7 +1,7 @@
 require 'erb'
 
 kids_data   = File.read('data/kids-data.txt')
-naughty_letter = File.read('templates/naughty_letter_template.txt.erb')
+invoice_letter = File.read('templates/invoice_letter_template.txt.erb')
 
 kids_data.each_line do |kid|
 
@@ -15,7 +15,7 @@ kids_data.each_line do |kid|
   street_name   = kid_data_array[10]
   street_suffix = kid_data_array[11]
   postal_code   = kid_data_array[12]
-  house_value   = kid_data_array[13]
+  house_value   = kid_data_array[13].to_i
   infraction    = kid_data_array[15]
 
 next unless house_value > 200000
