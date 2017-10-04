@@ -12,31 +12,22 @@ Below are the charges for Alice's Christmas toy order. The cost for each toy is 
 =================
 Alice's Toy Order
 =================
-
-
-$9998  Monopoly  
-
-$9998  Batman  
-
-$9998  Kaleidoscope  
-$0  Kaleidoscope (out of stock)
   
-
-$9998  Skates  
-
-$9998  Slinky  
-
+$9998  Monopoly    
+$9998  Batman    $0  Kaleidoscope (out of stock)
+    
+$9998  Skates    
+$9998  Slinky    
 $9998  Transformers  
-
 ----
 $59988  Subtotal
-$779844   HST
+$7787   HST
 ====
-$839832  Total
+$67775  Total
 
 
 
-Your total comes to $839832. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Alice's toys suddenly disappear.
+Your total comes to $67775. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Alice's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 

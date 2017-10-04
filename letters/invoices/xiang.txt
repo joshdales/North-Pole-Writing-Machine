@@ -12,29 +12,22 @@ Below are the charges for Xiang's Christmas toy order. The cost for each toy is 
 =================
 Xiang's Toy Order
 =================
-
-
-$6999  Meccano  
-
-$6999  Sorry  
-
-$6999  Stickers  
-
-$6999  Robot  
-
-$6999  Zelda  
-
+  
+$6999  Meccano    
+$6999  Sorry    
+$6999  Stickers    
+$6999  Robot    
+$6999  Zelda    
 $6999  Scrabble  
-
 ----
 $41994  Subtotal
-$545922   HST
+$5447   HST
 ====
-$587916  Total
+$47441  Total
 
 
 
-Your total comes to $587916. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Xiang's toys suddenly disappear.
+Your total comes to $47441. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Xiang's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 

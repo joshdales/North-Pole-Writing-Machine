@@ -12,29 +12,22 @@ Below are the charges for Umberto's Christmas toy order. The cost for each toy i
 =================
 Umberto's Toy Order
 =================
-
-
-$39880  Twister  
-
-$39880  Car  
-
-$39880  Truck  
-
-$39880  Plane  
-
-$39880  Battleship  
-
+  
+$39880  Twister    
+$39880  Car    
+$39880  Truck    
+$39880  Plane    
+$39880  Battleship    
 $39880  Pony  
-
 ----
 $239280  Subtotal
-$3110640   HST
+$31096   HST
 ====
-$3349920  Total
+$270376  Total
 
 
 
-Your total comes to $3349920. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Umberto's toys suddenly disappear.
+Your total comes to $270376. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Umberto's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 

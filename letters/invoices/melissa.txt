@@ -12,29 +12,22 @@ Below are the charges for Melissa's Christmas toy order. The cost for each toy i
 =================
 Melissa's Toy Order
 =================
-
-
-$3999  Synthesizer  
-
-$3999  Transformers  
-
-$3999  Truck  
-
-$3999  Clue  
-
-$3999  Twister  
-
+  
+$3999  Synthesizer    
+$3999  Transformers    
+$3999  Truck    
+$3999  Clue    
+$3999  Twister    
 $3999  Uno  
-
 ----
 $23994  Subtotal
-$311922   HST
+$3107   HST
 ====
-$335916  Total
+$27101  Total
 
 
 
-Your total comes to $335916. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Melissa's toys suddenly disappear.
+Your total comes to $27101. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Melissa's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 

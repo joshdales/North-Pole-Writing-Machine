@@ -12,29 +12,22 @@ Below are the charges for Vivian's Christmas toy order. The cost for each toy is
 =================
 Vivian's Toy Order
 =================
-
-
-$52880  Plane  
-
-$52880  Battleship  
-
-$52880  Pony  
-
-$52880  Frisbee  
-
-$52880  Gumby  
-
+  
+$52880  Plane    
+$52880  Battleship    
+$52880  Pony    
+$52880  Frisbee    
+$52880  Gumby    
 $52880  Clue  
-
 ----
 $317280  Subtotal
-$4124640   HST
+$41236   HST
 ====
-$4441920  Total
+$358516  Total
 
 
 
-Your total comes to $4441920. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Vivian's toys suddenly disappear.
+Your total comes to $358516. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Vivian's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 

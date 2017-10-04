@@ -12,17 +12,15 @@ Below are the charges for Zoe's Christmas toy order. The cost for each toy is a 
 =================
 Zoe's Toy Order
 =================
-
 $9890 1 defective toy
 ----
 $9890  Subtotal
-$128570   HST
+$1274   HST
 ====
-$138460  Total
+$11164  Total
 
 
-
-Your total comes to $138460. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Zoe's toys suddenly disappear.
+Your total comes to $11164. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Zoe's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 

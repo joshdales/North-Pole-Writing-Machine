@@ -12,29 +12,22 @@ Below are the charges for Joan's Christmas toy order. The cost for each toy is a
 =================
 Joan's Toy Order
 =================
-
-
-$6980  Robot  
-
-$6980  Zelda  
-
-$6980  Scrabble  
-
-$6980  Skates  
-
-$6980  Slinky  
-
+  
+$6980  Robot    
+$6980  Zelda    
+$6980  Scrabble    
+$6980  Skates    
+$6980  Slinky    
 $6980  Clue  
-
 ----
 $41880  Subtotal
-$544440   HST
+$5434   HST
 ====
-$586320  Total
+$47314  Total
 
 
 
-Your total comes to $586320. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Joan's toys suddenly disappear.
+Your total comes to $47314. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Joan's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 

@@ -12,29 +12,22 @@ Below are the charges for Penelope's Christmas toy order. The cost for each toy 
 =================
 Penelope's Toy Order
 =================
-
-
-$5955  Barbie  
-
-$5955  Batman  
-
-$5955  Clue  
-
-$5955  Boat  
-
-$5955  Car  
-
+  
+$5955  Barbie    
+$5955  Batman    
+$5955  Clue    
+$5955  Boat    
+$5955  Car    
 $5955  Blocks  
-
 ----
 $35730  Subtotal
-$464490   HST
+$4641   HST
 ====
-$500220  Total
+$40371  Total
 
 
 
-Your total comes to $500220. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Penelope's toys suddenly disappear.
+Your total comes to $40371. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Penelope's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 

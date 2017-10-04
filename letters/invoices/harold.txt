@@ -12,29 +12,22 @@ Below are the charges for Harold's Christmas toy order. The cost for each toy is
 =================
 Harold's Toy Order
 =================
-
-
-$5990  Barbie  
-
-$5990  Slinky  
-
-$5990  Clue  
-
-$5990  Plane  
-
-$5990  Pony  
-
+  
+$5990  Barbie    
+$5990  Slinky    
+$5990  Clue    
+$5990  Plane    
+$5990  Pony    
 $5990  Risk  
-
 ----
 $35940  Subtotal
-$467220   HST
+$4667   HST
 ====
-$503160  Total
+$40607  Total
 
 
 
-Your total comes to $503160. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Harold's toys suddenly disappear.
+Your total comes to $40607. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Harold's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 

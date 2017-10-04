@@ -12,17 +12,15 @@ Below are the charges for Quenten's Christmas toy order. The cost for each toy i
 =================
 Quenten's Toy Order
 =================
-
 $7099 1 defective toy
 ----
 $7099  Subtotal
-$92287   HST
+$910   HST
 ====
-$99386  Total
+$8009  Total
 
 
-
-Your total comes to $99386. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Quenten's toys suddenly disappear.
+Your total comes to $8009. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Quenten's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 

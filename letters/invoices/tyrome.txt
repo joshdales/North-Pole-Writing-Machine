@@ -12,31 +12,22 @@ Below are the charges for Tyrome's Christmas toy order. The cost for each toy is
 =================
 Tyrome's Toy Order
 =================
-
-
-$19290  Kaleidoscope  
-$0  Kaleidoscope (out of stock)
-  
-
-$19290  Bear  
-
-$19290  Monopoly  
-
-$19290  Twister  
-
-$19290  Uno  
-
+  $0  Kaleidoscope (out of stock)
+    
+$19290  Bear    
+$19290  Monopoly    
+$19290  Twister    
+$19290  Uno    
 $19290  Truck  
-
 ----
 $115740  Subtotal
-$1504620   HST
+$15041   HST
 ====
-$1620360  Total
+$130781  Total
 
 
 
-Your total comes to $1620360. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Tyrome's toys suddenly disappear.
+Your total comes to $130781. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of Tyrome's toys suddenly disappear.
 
 Due to a high number of NSF incidents we no longer accept personal cheques. Please make all payments through PayPal, Interac e-transfer or certified cheque.
 

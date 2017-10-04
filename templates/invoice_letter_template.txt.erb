@@ -12,27 +12,28 @@ Below are the charges for <%= name.capitalize %>'s Christmas toy order. The cost
 =================
 <%= name.capitalize %>'s Toy Order
 =================
-<% if behavior == "nice" %>
-<% toys.each do |toy| %>
-$<%= house_value/100 %>  <%= toy -%>
-  <% if toy == "Kaleidoscope" %>
+<% if behavior == "nice" -%>
+<% toys.each do |toy| -%>
+  <% if toy == "Kaleidoscope" -%>
 $0  Kaleidoscope (out of stock)
-  <% end %>
+  <%else %>
+$<%= house_value/100 %>  <%= toy -%>
+  <% end -%>
 <% end %>
 ----
 $<%= subtotal = (house_value/100) * toys.count %>  Subtotal
-$<%= hst = subtotal * 13 %>   HST
+$<%= hst = (subtotal/100) * 13 %>   HST
 ====
 $<%= total = subtotal + hst %>  Total
-<%else%>
+
+<% else -%>
 $<%= house_value/100 %> 1 defective toy
 ----
 $<%= subtotal = (house_value/100)%>  Subtotal
-$<%= hst = subtotal * 13 %>   HST
+$<%= hst = (subtotal/100) * 13 %>   HST
 ====
 $<%= total = subtotal + hst %>  Total
 <% end %>
-
 
 Your total comes to $<%= total %>. Payment is due upon receipt of invoice. Should you fail to submit prompt payment we will repossess all toys in this order by January 7.  I encourage you to imagine the tantrum that will ensue should all of <%= name.capitalize %>'s toys suddenly disappear.
 
